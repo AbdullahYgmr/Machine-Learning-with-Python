@@ -26,4 +26,4 @@ Each project focuses on solving a specific problem or applying a particular mach
 
 To install the required libraries, run:
 ```bash
-git clone https://github.com/AbdullahYgmr/machine-learning-projects.git
+ git clone https://github.com/AbdullahYgmr/Machine-Learning-with-Python
