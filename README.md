@@ -26,10 +26,4 @@ Each project focuses on solving a specific problem or applying a particular mach
 
 To install the required libraries, run:
 ```bash
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
-
 git clone https://github.com/AbdullahYgmr/machine-learning-projects.git
