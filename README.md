@@ -28,6 +28,7 @@ Each project focuses on solving a specific problem or applying a particular mach
   - Jupyter Notebook (optional, for interactive coding)
   - Google Colab
 
-To install the required libraries, run:
+To start using or contributing to the projects:
+Clone the repository:
 ```bash
  git clone https://github.com/AbdullahYgmr/Machine-Learning-with-Python
