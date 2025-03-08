@@ -21,8 +21,12 @@ Each project focuses on solving a specific problem or applying a particular mach
   - Pandas
   - Matplotlib
   - Scikit-learn
+  - PIL
+  - OS
+  - Pytorch
   - TensorFlow / Keras (for deep learning models)
   - Jupyter Notebook (optional, for interactive coding)
+  - Google Colab
 
 To install the required libraries, run:
 ```bash
